@@ -1,10 +1,14 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=94CCCD&height=260&section=header&text=@Rivcod&fontSize=80)
 
 <!--
-**rivcod/rivcod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivcod&count_bg=%23FCDF60&title_bg=%23FCD63E&icon=&icon_color=%236E7B7C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
-Here are some ideas to get you started:
+### Stacks
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+
