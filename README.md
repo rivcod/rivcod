@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=94CCCD&height=260&section=header&text=@Rivcod&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=94CCCD&height=140&section=header&text=@Rivcod&fontSize=80)
 
 <!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivcod&count_bg=%23FCDF60&title_bg=%23FCD63E&icon=&icon_color=%236E7B7C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
