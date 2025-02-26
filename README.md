@@ -1,23 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=94CCCD&height=140&section=header&text=@Rivcod&fontSize=80)
 
-## 👋 About Me
-- Aspiring **Python Developer**, passionate about AI and software development.
-- Currently learning **OpenAI API** and exploring AI applications.
-- Keen interest in **backend development** and scalable solutions.
-- Always striving to improve and learn new technologies.
+### Rivcod 👨‍💻  
+Python Backend Developer | Exploring AI & Scalable Systems  
 
-## 🛠️ Tech Stack
-- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-- **Web Frameworks:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
-- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-- **Front-end Basics:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+#### 🔹 Tech Stack  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-## 🌱 Currently Learning
-- **OpenAI API** for AI-powered applications.
-- Strengthening Python backend development skills.
+#### 🛠 Currently Exploring  
+- **PostgreSQL** (DB scalability & optimization)  
+- **FastAPI** (Lightweight backend framework)  
+- **OpenAI API** (LLM applications)  
 
-## 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/game9um@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:game9um@gmail.com)
-
----
-🚀 *Always exploring, always growing!*
+#### 📫 Contact  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:game9um@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nia-ji-495103347/)  
