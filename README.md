@@ -1,31 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=94CCCD&height=140&section=header&text=@Rivcod&fontSize=80)
 
-<!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frivcod&count_bg=%23FCDF60&title_bg=%23FCD63E&icon=&icon_color=%236E7B7C&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+## 👋 About Me
+- Aspiring **Python Developer**, passionate about AI and software development.
+- Currently learning **OpenAI API** and exploring AI applications.
+- Keen interest in **backend development** and scalable solutions.
+- Always striving to improve and learn new technologies.
 
-### Stacks
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
+## 🛠️ Tech Stack
+- **Programming:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+- **Web Frameworks:** ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white)
+- **Database:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+- **Front-end Basics:** ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 
+## 🌱 Currently Learning
+- **OpenAI API** for AI-powered applications.
+- Strengthening Python backend development skills.
 
-### Contact
-<img src="https://img.shields.io/badge/game9um@gmail.com-E6E6E6?style=flat-square&logo=gmail&logoColor=white"/></a>
+## 📫 Contact Me
+[![Gmail](https://img.shields.io/badge/game9um@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:game9um@gmail.com)
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-</div>
-
+---
+🚀 *Always exploring, always growing!*
